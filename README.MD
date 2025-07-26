@@ -10,8 +10,7 @@ This project uses a Kaggle dataset of used car listings from Craigslist to predi
 
 ## Dataset
 
-Source: [Kaggle - Used Cars Dataset](https://www.kaggle.com/)  
-(The actual link should be updated based on the dataset you used.)
+Source: [Kaggle - Used Cars Dataset](https://www.kaggle.com/code/rodzaniskandar/used-car-craiglist-price-prediction)  
 
 ## Model
 
@@ -32,7 +31,7 @@ Model performance:
 
 The plot below shows predicted vs actual car prices:
 
-![scatter plot](your-image-path-if-you-have-one.png)
+![scatter plot](./MODEL.png)
 
 ## Requirements
 
